@@ -1,2 +1,2 @@
-# challenge01
-Challenge 01 debugging css and html stage 02 RS
+# Css and Html positioning
+Debuggin a website to correct issues on html and css. Mainly on posistioning, using Figma as reference.
